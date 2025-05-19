@@ -18,4 +18,6 @@ The dataset includes variables such as average daily social media usage, mental 
 Open the `Social_Media_Addiction.ipynb` notebook to explore the analysis step-by-step.
 
 ## License
-This project is licensed under the [Your License Name].
+This project is licensed under the MIT License.
+
+© 2025 Yuliia Psiarovska

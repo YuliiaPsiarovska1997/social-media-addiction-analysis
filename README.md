@@ -1,23 +1,48 @@
-# Social Media Addiction Analysis
+# 📱 Social Media Addiction Analysis
 
-Exploratory Data Analysis of social media impact on students' mental health, sleep, and academics.
+**Exploratory Data Analysis of the impact of social media on students' mental health, sleep, and academics.**
 
-## Project Overview
-This project investigates how social media usage affects various aspects of students' lives, including their mental health, sleep patterns, and academic performance. Using data visualization and statistical analysis, it aims to uncover key relationships and insights.
+---
 
-## Data
-The dataset includes variables such as average daily social media usage, mental health scores, sleep hours per night, and relationship status.
+## 🧠 Project Overview
 
-## Tools & Libraries
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
+This project explores how daily social media usage affects various aspects of students’ lives, including:
 
-## How to Run
-Open the `Social_Media_Addiction.ipynb` notebook to explore the analysis step-by-step.
+- Mental health
+- Sleep duration
+- Academic focus
+- Relationship dynamics
 
-## License
-This project is licensed under the MIT License.
+The goal is to uncover patterns and correlations using visual and statistical analysis.
 
-© 2025 Yuliia Psiarovska
+---
+
+## 📊 Data
+
+The dataset contains self-reported information from students and includes the following variables:
+
+- `Age`
+- `Avg_Daily_Usage_Hours`
+- `Mental_Health_Score`
+- `Sleep_Hours_Per_Night`
+- `Addicted_Score`
+- `Relationship_Status`
+- `Conflicts_Over_Social_Media`
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python 3  
+- Pandas  
+- Seaborn  
+- Matplotlib  
+- Jupyter Notebook
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YuliiaPsiarovska1997/social-media-addiction-analysis.git
